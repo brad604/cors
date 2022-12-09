@@ -50,7 +50,7 @@ Live examples:
 To use the API, just prefix the URL with the API URL. Take a look at [demo.html](demo.html) for an example.
 A concise summary of the documentation is provided at [lib/help.txt](lib/help.txt).
 
-If you want to automatically enable cross-domain requests when needed, use the following snippet:
+If you want to automatically enable cross-domain requests when needed, use the following snippet ok:
 
 ```javascript
 (function() {
